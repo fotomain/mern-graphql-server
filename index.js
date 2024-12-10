@@ -1,6 +1,6 @@
 
 //=== npm i colors
-//=== npm i express-graphql
+//=== npm install express-graphql@latest --save
 //=== npm i graphql
 //=== npm i mongoose
 //=== npm install dotenv --save
